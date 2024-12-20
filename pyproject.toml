@@ -4,6 +4,7 @@ version = "0.0.1"
 description = "aiogram template"
 authors = ["SaD-Pr0ger <sad.pr0ger@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
